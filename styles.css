@@ -1,3 +1,7 @@
+* {
+    font-family: 'Cormorant Garamond', serif;
+}
+
 body {
     font-family: Arial, sans-serif;
     background-color: white;
@@ -17,7 +21,7 @@ body {
     padding: 20px;
     text-align: center;
     width: 450px;
-    height: 680px;
+    height: 700px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
@@ -55,6 +59,7 @@ p {
     margin: 20px auto;
     width: 300px;
     text-align: left;
+    font-size: 20px;
 }
 
 
@@ -84,12 +89,12 @@ footer {
 
 button {
     padding: 10px 20px;
-    font-size: 16px;
     cursor: pointer;
     background-color: white;
     color: black;
     border: none;
     border-radius: 5px;
+    font-size: 20px;
 }
 
 .link-footer {
